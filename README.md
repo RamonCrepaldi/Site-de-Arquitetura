@@ -1,2 +1,5 @@
 # Site-de-Arquitetura
-Site de arquitetura utilizando Bootstrap CSS HTML
+Site basico de arquitetura utilizando Bootstrap CSS HTML.
+
+Comenta ai ! 
+#dev

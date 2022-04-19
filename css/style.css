@@ -1,0 +1,25 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: cadetblue;
+}
+
+.quem-somos {
+    background-color: lightblue;
+    color: darkslategray;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.Projetos {
+    background-color: rgb(69, 193, 235);
+}
+
+.bg-footer{
+    background-color: moccasin;
+}
